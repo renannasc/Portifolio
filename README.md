@@ -46,19 +46,19 @@ projects done for my portfolio
             <td><a href="01">WebColeta</a></td>
             <td>10/06/2021</td>
             <td align="center">
-            <a href="01"><img width="300px" src="projeto-01/.github/preview.jpg" /></a></td>
+            <a href="Projeto-01"><img width="300px" src="Projeto-01/.github/preview.jpg" /></a></td>
         </tr>
         <tr>
             <td>02</td>
-            <td><a href="02">AgenciaWeb</a></td>
+            <td><a href="Projeto-02">AgenciaWeb</a></td>
             <td>18/01/23</td>
-            <td align="center"><a href="02"><img width="300px" src="projeto-02/.github/preview.jpg" /></a></td>
+            <td align="center"><a href="02"><img width="300px" src="Projeto-02/.github/preview.jpg" /></a></td>
         </tr>
         <tr>
             <td>03</td>
-            <td><a href="03">Botões e Cursores</a></td>
+            <td><a href="Projeto-03"></a></td>
             <td>25/01/23</td>
-            <td align="center"><a href="03"><img width="300px" src="03/.github/preview.jpg" /></a></td>
+            <td align="center"><a href="03"><img width="300px" src="Projeto-03/.github/preview.jpg" /></a></td>
         </tr>
         
     </tbody>
