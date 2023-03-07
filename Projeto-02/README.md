@@ -4,20 +4,20 @@
 
 <h3 align="center">Home do Site</h3>
 <p align="center">
-   <img src="./wallpapers/Agencia-01.png" width="100%" style="max-width:100%;margin-top:30px;"><br>
+   <img src="./.github/preview.png" width="100%" style="max-width:100%;margin-top:30px;"><br>
 </p>
 
 <h3 align="center">Sobre</h3>
 <p align="center">
-   <img src="/wallpapers/Agencia-02.png" width="100%" style="max-width:100%;margin-top:30px;"><br>
+   <img src="./.github/preview02.png" width="100%" style="max-width:100%;margin-top:30px;"><br>
 
 <h3 align="center">Beneficios/Depoimentos</h3>
 <p align="center">
-   <img src="/wallpapers/Agencia-03.png" width="100%" style="max-width:100%;margin-top:30px;"><br>
+   <img src="./.github/preview03.png" width="100%" style="max-width:100%;margin-top:30px;"><br>
 
 <h3 align="center">Contato</h3>
 <p align="center">
-   <img src="/wallpapers/Agencia-04.png" width="100%" style="max-width:100%;margin-top:30px;"><br>
+   <img src="./.github/preview04.png" width="100%" style="max-width:100%;margin-top:30px;"><br>
 
 
 ## 🚀 Tecnologias
