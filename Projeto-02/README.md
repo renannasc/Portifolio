@@ -20,15 +20,17 @@
    <img src="/wallpapers/Agencia-04.png" width="100%" style="max-width:100%;margin-top:30px;"><br>
 
 
-## <a id="faq"></a> FAQ
-
-<b>Pergunta:</b> Quais são as tecnologias usadas neste projeto?
-
-<b>Resposta:</b> As tecnologias usadas neste projeto são...
+## 🚀 Tecnologias
 
 ✅ HTML 5 <br>
 ✅ CSS 3<br>
 ✅ JavaScipt
+
+
+## :memo: Licença
+
+Esses projetos está sob a licença MIT.
+
 
 
 
