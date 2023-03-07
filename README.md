@@ -43,7 +43,7 @@ projects done for my portfolio
     <tbody>
         <tr>
             <td>01</td>
-            <td><a href="01">WebColeta</a></td>
+            <td><a href="Projeto-01">WebColeta</a></td>
             <td>10/06/2021</td>
             <td align="center">
             <a href="Projeto-01"><img width="300px" src="Projeto-01/.github/preview.jpg" /></a></td>
@@ -52,13 +52,15 @@ projects done for my portfolio
             <td>02</td>
             <td><a href="Projeto-02">AgenciaWeb</a></td>
             <td>18/01/23</td>
-            <td align="center"><a href="02"><img width="300px" src="Projeto-02/.github/preview.jpg" /></a></td>
+            <td align="center">
+            <a href=Projeto-02"><img width="300px" src="Projeto-02/.github/preview.jpg" /></a></td>
         </tr>
         <tr>
             <td>03</td>
             <td><a href="Projeto-03"></a></td>
             <td>25/01/23</td>
-            <td align="center"><a href="03"><img width="300px" src="Projeto-03/.github/preview.jpg" /></a></td>
+            <td align="center">
+            <a href="Projeto-03"><img width="300px" src="Projeto-03/.github/preview.jpg" /></a></td>
         </tr>
         
     </tbody>
