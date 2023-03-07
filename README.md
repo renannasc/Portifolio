@@ -52,7 +52,7 @@
             <td><a href="Projeto-02">AgenciaWeb</a></td>
             <td>18/02/23</td>
             <td align="center">
-            <a href=Projeto-02"><img width="300px" src="Projeto-02/.github/preview.png" /></a></td>
+            <a href="Projeto-02"><img width="300px" src="Projeto-02/.github/preview.png" /></a></td>
         </tr>
         <tr>
             <td>03</td>
