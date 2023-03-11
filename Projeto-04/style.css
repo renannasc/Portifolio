@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  :root {
+    --text-color: color: #0F172A
+    font-size: 62.5%;
+    font-family: 'Inter', sans-serif;
+  }
+
+  body{
+    font-size: 1.6rem;
+    background: blueviolet;
+
+    height: 100vh;
+    display: grid;
+    place-content: center;
+
+    color: var(--text-color);
+  }
+
+  main{
+    width: 80rem;
+    height: 69.2rem;
+    padding: 6.4rem 8rem;
+    background: #FFFFFF;
+    box-shadow: 0rem 4rem 32rem rgba(15, 23, 42, 0.15);
+    border-radius: 1.6rem;
+
+
+    display: grid;
+
+    gap: 6.4rem;
+  }
+
+  section h2{
+    font-size: 2rem;
+    line-height: 2.4rem;
+  }
+
+  .conversor .wrapper{
+    margin-top: 1.6rem;
+    display: flex;
+    gap: 1.6rem;
+  }
+
+  .money-wrapper{
+    background-color: white;
+    outline: .1rem solid #94a3b8;
+
+    width: 27rem;
+    padding: 1.6rem;
+    border-radius: .5rem;
+
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+
+  .money-wrapper:hover,
+  .money-wrapper:has(:focus){
+    outline: 0.25rem solid #7C3AED;
+  }
+
+.amount{
+  border: 0;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+
+  color: var(--text-color);
+  width: 50%;
+}
+
+.amount:focus{
+  outline: 0;
+}
+
+.dropdown{
+  --bg-hover: #EDE9FE;
+  width: 12.4rem;
+
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.select{
+  display: flex;
+  align-items: center;
+  gap: .8rem;
+
+  padding: 1.6rem;
+
+  border-radius: 0 .8rem .8rem 0;
+  cursor: pointer;
+}
+
+.select::before{
+  content: "";
+  height: 2.4rem;
+  width: 0.1rem;
+  background-color: #94A3B8;
+
+}
+
+.select::after{
+  content: ;
+}
+
+.select:hover{
+  background-color: var(--bg-hover);
+}
+
+.fi.fis{
+  font-size: 2.5rem;
+  border-radius: 50%;
+}
+
+  .cambio .wrapper{
+    margin-top: 2.4rem;
+    height: 35.6rem;
+    width: 59.2rem;
+
+    border: 1px solid black;
+  }
