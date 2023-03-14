@@ -14,7 +14,7 @@
 
   body{
     font-size: 1.6rem;
-    background: blueviolet;
+    background-image: linear-gradient(0deg, blueviolet 20%, rgb(149, 138, 198) 80%);
 
     height: 100vh;
     display: grid;
@@ -22,6 +22,7 @@
 
     color: var(--text-color);
   }
+  
 
   main{
     
@@ -37,8 +38,11 @@
   }
 
   section h2{
-    font-size: 2rem;
+    font-size: 3rem;
     line-height: 2.4rem;
+    padding-bottom: 1rem;
+
+    text-align: center;
   }
 
   .conversor .wrapper{
